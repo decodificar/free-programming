@@ -6,21 +6,26 @@
 <thead>
   <tr>
     <th class="tg-0pky">
-    <b>Data do curso</b>
+      <b>Data do curso</b>
     </th>
     <th class="tg-0pky">
-    <b>Link</b>
+      <b>Link</b>
     </th>
     <th class="tg-0pky">
-    <b>Plataforma </b>
+      <b>Plataforma </b>
     </th>
     <th class="tg-0pky">
-    <b>Professor</b>
+      <b>Professor</b>
     </th>
     <th class="tg-0pky">
-    <b>Certificado</b>
+      <b>Certificado</b>
     </th>
-    <th class="tg-0pky"></th>
+    <th class="tg-0pky">
+      <b>Duração do Curso</b>
+    </th>
+    <th class="tg-0pky">
+      <b>Nível do curso</b>
+    </th>
   </tr>
 </thead>
 <tbody>
@@ -33,6 +38,7 @@
     <td class="tg-0pky">Victor Hugo Cunha</td>
     <td class="tg-0pky">Não possui informação sobre certificado</td>
   </tr>
+  
   <tr>
     <td class="tg-0pky">31/10/2017</td>
     <td class="tg-0pky">
@@ -42,6 +48,7 @@
     <td class="tg-0pky">Canal CODEficando</td>
     <td class="tg-0pky">Não possui informação sobre certificado</td>
   </tr>
+  
   <tr>
     <td class="tg-0pky">31/10/2017</td>
     <td class="tg-0pky"> <a href="https://www.youtube.com/playlist?list=PL2QkKoTK1V5H2dkskHUq3Y6Od0Nf-LuDm">Android Studio 3.0 - 2ª Temporada</a></td>
@@ -49,6 +56,7 @@
     <td class="tg-0pky">Canal CODEficando</td>
     <td class="tg-0pky">Não possui informação sobre certificado</td>
   </tr>
+  
   <tr>
     <td class="tg-0pky">08/03/2019</td>
     <td class="tg-0pky"> <a href="https://www.youtube.com/playlist?list=PL2QkKoTK1V5GAE-z3qSriaHwAV6oVRw5p">Android Studio 3.0 - 3ª Temporada</a></td>
@@ -56,7 +64,8 @@
     <td class="tg-0pky">Canal CODEficando</td>
     <td class="tg-0pky">Não possui informação sobre certificado</td>
   </tr>
-    <tr>
+  
+  <tr>
     <td class="tg-0pky">Indefinido</td>
     <td class="tg-0pky"> 
     <a href="http://www.devmasterteam.com/Curso/AndroidIniciante">Desenvolvimento Android Iniciante</a>
@@ -65,13 +74,15 @@
     <td class="tg-0pky">DevMaster Team</td>
     <td class="tg-0pky">Não possui informação sobre certificado</td>
   </tr>
-<tr>
+  
+  <tr>
     <td class="tg-0pky">08/03/2019</td>
     <td class="tg-0pky"> <a href="https://www.youtube.com/playlist?list=PL2QkKoTK1V5GAE-z3qSriaHwAV6oVRw5p">Android Studio 3.0 - 3ª Temporada</a></td>
     <td class="tg-0pky">Youtube </td>
     <td class="tg-0pky">Canal CODEficando</td>
     <td class="tg-0pky">Não possui informação sobre certificado</td>
   </tr>
+ 
  <tr>
     <td class="tg-0pky">Indefinido</td>
     <td class="tg-0pky"> 
@@ -80,6 +91,46 @@
     <td class="tg-0pky">Site DevMasterTeam </td>
     <td class="tg-0pky">DevMaster Team</td>
     <td class="tg-0pky">Não possui informação sobre certificado</td>
+  </tr>
+
+ <tr>
+    <td class="tg-0pky">Indefinido</td>
+    <td class="tg-0pky"> 
+    <a href="https://www.ev.org.br/cursos/fundamentos-das-aplicacoes-moveis">Fundamentos das Aplicações Móveis</a>
+    </td>
+    <td class="tg-0pky">Site Fundação Bradesco</td>
+    <td class="tg-0pky">Fundação Bradesco</td>
+    <td class="tg-0pky">Sim</td>
+  </tr>
+
+  <tr>
+    <td class="tg-0pky">Indefinido</td>
+    <td class="tg-0pky"> 
+    <a href="https://www.ev.org.br/cursos/desenvolvendo-aplicacoes-mobile-com-android-studio">Desenvolvendo Aplicações Mobile com Android Studio</a>
+    </td>
+    <td class="tg-0pky">Site Fundação Bradesco</td>
+    <td class="tg-0pky">Fundação Bradesco</td>
+    <td class="tg-0pky">Sim</td>
+  </tr>
+
+   <tr>
+    <td class="tg-0pky">Indefinido</td>
+    <td class="tg-0pky"> 
+    <a href="https://www.primecursos.com.br/android-studio-basico/">Curso de Android Studio Básico</a>
+    </td>
+    <td class="tg-0pky">Site Prime Cursos</td>
+    <td class="tg-0pky">Prime Cursos</td>
+    <td class="tg-0pky">Sim, porém pago</td>
+  </tr>
+
+   <tr>
+    <td class="tg-0pky">Indefinido</td>
+    <td class="tg-0pky"> 
+    <a href="https://pt.coursera.org/learn/introducao-aplicativos-android">Introdução ao Desenvolvimento de Aplicativos Android</a>
+    </td>
+    <td class="tg-0pky">Site Coursera</td>
+    <td class="tg-0pky">Ulises Martins e Cristhof Johann</td>
+    <td class="tg-0pky">Sim, porém pago</td>
   </tr>
 
 </tbody>
