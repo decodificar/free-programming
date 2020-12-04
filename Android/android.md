@@ -37,6 +37,9 @@
     <td class="tg-0pky">Site da RBTech</td>
     <td class="tg-0pky">Victor Hugo Cunha</td>
     <td class="tg-0pky">Não possui informação sobre certificado</td>
+    <td class="tg-0pky">Não ha informação</td>
+    <td class="tg-0pky">Iniciante</td>
+
   </tr>
   
   <tr>
@@ -47,6 +50,9 @@
     <td class="tg-0pky">Youtube </td>
     <td class="tg-0pky">Canal CODEficando</td>
     <td class="tg-0pky">Não possui informação sobre certificado</td>
+    <td class="tg-0pky">Não há informação</td>
+    <td class="tg-0pky">Iniciante</td>
+
   </tr>
   
   <tr>
@@ -55,6 +61,8 @@
     <td class="tg-0pky">Youtube </td>
     <td class="tg-0pky">Canal CODEficando</td>
     <td class="tg-0pky">Não possui informação sobre certificado</td>
+    <td class="tg-0pky">Não há informação</td>
+    <td class="tg-0pky">Iniciante</td>
   </tr>
   
   <tr>
@@ -63,6 +71,8 @@
     <td class="tg-0pky">Youtube </td>
     <td class="tg-0pky">Canal CODEficando</td>
     <td class="tg-0pky">Não possui informação sobre certificado</td>
+    <td class="tg-0pky">Não há informação</td>
+    <td class="tg-0pky">Iniciante</td>
   </tr>
   
   <tr>
@@ -73,16 +83,67 @@
     <td class="tg-0pky">Site DevMasterTeam </td>
     <td class="tg-0pky">DevMaster Team</td>
     <td class="tg-0pky">Não possui informação sobre certificado</td>
+    <td class="tg-0pky">7h</td>
+    <td class="tg-0pky">Iniciante</td>
+  </tr>
+
+   <tr>
+    <td class="tg-0pky">Indefinido</td>
+    <td class="tg-0pky"> 
+    <a href="https://www.ev.org.br/cursos/fundamentos-das-aplicacoes-moveis">Fundamentos das Aplicações Móveis</a>
+    </td>
+    <td class="tg-0pky">Site Fundação Bradesco</td>
+    <td class="tg-0pky">Fundação Bradesco</td>
+    <td class="tg-0pky">Sim</td>
+    <td class="tg-0pky">12h</td>
+    <td class="tg-0pky">Iniciante</td>
+  </tr>
+
+  <tr>
+    <td class="tg-0pky">Indefinido</td>
+    <td class="tg-0pky"> 
+    <a href="https://www.primecursos.com.br/android-studio-basico/">Curso de Android Studio Básico</a>
+    </td>
+    <td class="tg-0pky">Site Prime Cursos</td>
+    <td class="tg-0pky">Prime Cursos</td>
+    <td class="tg-0pky">Sim, porém pago</td>
+    <td class="tg-0pky">40h</td>
+    <td class="tg-0pky">Iniciante</td>
+  </tr>
+
+  <tr>
+    <td class="tg-0pky">Indefinido</td>
+    <td class="tg-0pky"> 
+    <a href="https://www.coursera.org/specializations/android-app-development">Programa de cursos integrados Desenvolvimento de aplicativos Android</a>
+    </td>
+    <td class="tg-0pky">Site Coursera</td>
+    <td class="tg-0pky">Dr. Jerry Roth, Dra Julie Johnson</td>
+    <td class="tg-0pky">Sim, porém pago</td>
+    <td class="tg-0pky">5 meses</td>
+    <td class="tg-0pky">Iniciante</td>
+  </tr>
+
+  <tr>
+    <td class="tg-0pky">Indefinido</td>
+    <td class="tg-0pky"> <a href="https://www.cursou.com.br/informatica/programacao/android/android-basico-avancado/">Curso de Android – Básico ao Avançado</a></td>
+    <td class="tg-0pky">Site Cursou </td>
+    <td class="tg-0pky">-</td>
+    <td class="tg-0pky">Não há informações</td>
+    <td class="tg-0pky">Sem informação</td>
+    <td class="tg-0pky">Iniciante</td>
+  </tr>
+
+   <tr>
+    <td class="tg-0pky">Indefinido</td>
+    <td class="tg-0pky"> <a href="https://www.coursera.org/learn/app-inventor-android">Developing Android Apps with App Inventor</a></td>
+    <td class="tg-0pky">Site Coursera </td>
+    <td class="tg-0pky">Kenneth W T Leung</td>
+    <td class="tg-0pky">Sim, pago</td>
+    <td class="tg-0pky">40h</td>
+    <td class="tg-0pky">Iniciante</td>
   </tr>
   
-  <tr>
-    <td class="tg-0pky">08/03/2019</td>
-    <td class="tg-0pky"> <a href="https://www.youtube.com/playlist?list=PL2QkKoTK1V5GAE-z3qSriaHwAV6oVRw5p">Android Studio 3.0 - 3ª Temporada</a></td>
-    <td class="tg-0pky">Youtube </td>
-    <td class="tg-0pky">Canal CODEficando</td>
-    <td class="tg-0pky">Não possui informação sobre certificado</td>
-  </tr>
- 
+  
  <tr>
     <td class="tg-0pky">Indefinido</td>
     <td class="tg-0pky"> 
@@ -91,16 +152,8 @@
     <td class="tg-0pky">Site DevMasterTeam </td>
     <td class="tg-0pky">DevMaster Team</td>
     <td class="tg-0pky">Não possui informação sobre certificado</td>
-  </tr>
-
- <tr>
-    <td class="tg-0pky">Indefinido</td>
-    <td class="tg-0pky"> 
-    <a href="https://www.ev.org.br/cursos/fundamentos-das-aplicacoes-moveis">Fundamentos das Aplicações Móveis</a>
-    </td>
-    <td class="tg-0pky">Site Fundação Bradesco</td>
-    <td class="tg-0pky">Fundação Bradesco</td>
-    <td class="tg-0pky">Sim</td>
+    <td class="tg-0pky">25h</td>
+    <td class="tg-0pky">Intermediário</td>
   </tr>
 
   <tr>
@@ -111,16 +164,8 @@
     <td class="tg-0pky">Site Fundação Bradesco</td>
     <td class="tg-0pky">Fundação Bradesco</td>
     <td class="tg-0pky">Sim</td>
-  </tr>
-
-   <tr>
-    <td class="tg-0pky">Indefinido</td>
-    <td class="tg-0pky"> 
-    <a href="https://www.primecursos.com.br/android-studio-basico/">Curso de Android Studio Básico</a>
-    </td>
-    <td class="tg-0pky">Site Prime Cursos</td>
-    <td class="tg-0pky">Prime Cursos</td>
-    <td class="tg-0pky">Sim, porém pago</td>
+    <td class="tg-0pky">15h</td>
+    <td class="tg-0pky">Intermediário</td>
   </tr>
 
    <tr>
@@ -131,6 +176,8 @@
     <td class="tg-0pky">Site Coursera</td>
     <td class="tg-0pky">Ulises Martins e Cristhof Johann</td>
     <td class="tg-0pky">Sim, porém pago</td>
+    <td class="tg-0pky">7h</td>
+    <td class="tg-0pky">Intermediário</td>
   </tr>
 
 </tbody>
