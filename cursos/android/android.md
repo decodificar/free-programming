@@ -145,7 +145,7 @@
 
   <tr>
     <td class="tg-0pky">Indefinido</td>
-    <td class="tg-0pky"> <a href="hhttps://jornadadodev.com.br/cursos/curso-de-desenvolvimento-de-aplicativos-para-android">Curso de desenvolvimento de Aplicativos para Android</a></td>
+    <td class="tg-0pky"> <a href="https://jornadadodev.com.br/cursos/curso-de-desenvolvimento-de-aplicativos-para-android">Curso de desenvolvimento de Aplicativos para Android</a></td>
     <td class="tg-0pky">Jornal do Dev</td>
     <td class="tg-0pky">Jornal do Dev</td>
     <td class="tg-0pky">Sem informação</td>
